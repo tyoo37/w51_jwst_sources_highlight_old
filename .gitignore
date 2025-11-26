@@ -1,0 +1,4 @@
+*.fits
+*.png
+.git_broken_backup/*
+*.log

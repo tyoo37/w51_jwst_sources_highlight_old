@@ -1,0 +1,17 @@
+# Region file format: DS9 CARTA 5.0.0-beta.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+icrs
+ellipse(290.936541651, 14.486263524, 5.4772", 5.5203", 90) # color=#147EB3 width=2
+ellipse(290.932457454, 14.507279595, 0.8213", 0.8157", 90) # color=#147EB3 width=2
+ellipse(290.932669281, 14.506814557, 0.5420", 0.5084", 90) # color=#147EB3 width=2
+ellipse(290.931871803, 14.507441295, 0.4134", 0.4470", 90) # color=#147EB3 width=2
+ellipse(290.933153549, 14.507473647, 0.3520", 0.3743", 90) # color=#147EB3 width=2
+ellipse(290.932947435, 14.508223781, 0.4134", 0.4246", 90) # color=#147EB3 width=2
+ellipse(290.932938795, 14.507743365, 0.3017", 0.2626", 90) # color=#147EB3 width=2
+ellipse(290.932912037, 14.509546199, 0.5811", 0.7040", 90) # color=#147EB3 width=2
+ellipse(290.924117303, 14.517399353, 1.6795", 1.4459", 90) # color=#147EB3 width=2
+ellipse(290.924417675, 14.515747412, 0.4783", 0.4560", 90) # color=#147EB3 width=2
+ellipse(290.895714676, 14.535270219, 16.9090", 16.4181", 90) # color=#147EB3 width=2
+ellipse(290.899698222, 14.524392432, 7.3636", 7.0909", 90) # color=#147EB3 width=2
+ellipse(290.929727478, 14.480962479, 2.7080", 2.7458", 90) # color=#147EB3 width=2
+ellipse(290.915908450, 14.518009075, 0.0765", 0.0699", 90) # color=#147EB3 width=2

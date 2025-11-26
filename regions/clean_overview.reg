@@ -1,0 +1,2 @@
+#CRTFv0 CASA Region Text Format version 0
+rotbox [[290.91480461deg, 14.52297538deg], [16.7163arcsec, 42.0072arcsec], 96.16095734deg] coord=ICRS, linewidth=2, linestyle=-,  color=147eb3, fontsize=10, fontstyle=bold

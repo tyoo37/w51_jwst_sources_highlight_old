@@ -1,0 +1,2 @@
+#CRTFv0 CASA Region Text Format version 0
+centerbox [[290.92495014deg, 14.51297596deg], [241.1320arcsec, 203.2982arcsec]] coord=ICRS, linewidth=2, linestyle=-, symsize=1, symthick=1, color=147eb3, font=Helvetica, fontsize=10, fontstyle=bold, usetex=false
